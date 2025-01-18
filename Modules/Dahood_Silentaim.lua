@@ -1,5 +1,5 @@
 -- ily Stefanuk12 (Ich liebe dich Stefanuk12 <3)
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Firoxus/Yandere.xoxo/main/Features/Silent_Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/FlR0X/Horror/refs/heads/main/Modules/Dahood_Silentaim_Module.lua"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
