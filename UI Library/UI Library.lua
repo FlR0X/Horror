@@ -18,7 +18,6 @@ local httpservice = game:GetService("HttpService")
 
 local player = players.LocalPlayer
 local mouse = player:GetMouse()
-mouse.Icon = "http://www.roblox.com/asset?id=15096362808"
 local camera = game.Workspace.CurrentCamera
 
 library.theme = {
@@ -27,8 +26,8 @@ library.theme = {
     font = Enum.Font.Code,
     background = "rbxassetid://5553946656",
     tilesize = 90,
-    cursor = true,
-    cursorimg = "http://www.roblox.com/asset?id=13959293829",
+    cursor = false,
+    cursorimg = "http://www.roblox.com/asset?id=118683083767813",
     backgroundcolor = Color3.fromRGB(20, 20, 20),
     tabstextcolor = Color3.fromRGB(240, 240, 240),
     bordercolor = Color3.fromRGB(60, 60, 60),
