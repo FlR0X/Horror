@@ -1,4 +1,4 @@
 local premium_users = {
-    game.Players.yeahgetreal
+    "yeahgetreal"
 }
 return premium_users
