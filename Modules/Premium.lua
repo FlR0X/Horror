@@ -1,4 +1,8 @@
 local premium_users = {
-    "yeahgetreal"
+    "yeahgetreal",
+    "triac",
+    "lummoki",
+    "hamqyy",
+    "20Ix355"
 }
 return premium_users
