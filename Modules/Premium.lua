@@ -3,6 +3,9 @@ local premium_users = {
     "triac",
     "lummoki",
     "hamqyy",
-    "20Ix355"
+    "20Ix355",
+    "Milk_Mouth0",
+    "dyingdecay",
+    "musicawards"
 }
 return premium_users
